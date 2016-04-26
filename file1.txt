@@ -2,3 +2,5 @@ this is my first line
 second lines are awesome
 fourth lines better
 Dylan's mom makes the best carob milk.
+Madison is bad :(
+>>>>>>> 2b944c19d9e971695385f4b7cf4fbff1b474fe58
